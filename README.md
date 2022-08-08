@@ -1,6 +1,6 @@
 ## Hello there / Salve 🇧🇷
 
-### Software Engineer ‍💻 @ Flow Money Automation | Clojure Developer ![Clojure](https://clojure.org/images/clojure-logo-120b.png =20x20)
+### Software Engineer ‍💻 @ Flow Money Automation | Clojure Developer ![](https://clojure.org/images/clojure-logo-120b.png =20x20)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodalloca&count_private=true&show_icons=true&theme=algolia)
 
