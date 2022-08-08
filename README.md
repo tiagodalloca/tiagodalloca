@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello there / Salve 🇧🇷
+
+### Software Engineer @ Flow Money Automation | Clojure Developer 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodalloca&count_private=true&show_icons=true&theme=algolia)
 
