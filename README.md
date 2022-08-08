@@ -1,4 +1,4 @@
-## Hello there / Salve 🇧🇷
+## _'Um salve'_ from Brazil! 🇧🇷
 
 ### Software Engineer ‍💻 @ Flow Money Automation | Clojure Developer <img src="https://clojure.org/images/clojure-logo-120b.png" width="22" height="22">
 
