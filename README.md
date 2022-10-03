@@ -1,4 +1,4 @@
-## Software Engineer ‍💻 Freelancer | Clojure Developer <img src="https://clojure.org/images/clojure-logo-120b.png" width="22" height="22">
+## Software Engineer ‍💻 | Freelancer | Clojure Developer <img src="https://clojure.org/images/clojure-logo-120b.png" width="22" height="22">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodalloca&count_private=true&show_icons=true&theme=algolia)
 
